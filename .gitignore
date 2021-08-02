@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# config
+configure.py
+
+# downlaoded files
+*.mp3
+*.json
+
+# custom
+.DS_Store
+ngrok
